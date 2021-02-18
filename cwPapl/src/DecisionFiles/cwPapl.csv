@@ -1,0 +1,43 @@
+0,24,1,0,You see an abandoned house in the vicinity and you hear a baby crying in the house. ,Where do you want to go?,Go Upstairs,Go Downstairs,-,src/FrontEnd/img/abanHse.jpg
+1,5,2,0,You've entered the abandoned house.,What now?,Source for Crying Baby,Explore,-,src/FrontEnd/img/insideHse.jpg
+2,13,3,0,You're at the corridor and there's two paths available. ,Which direction do you want to go?,Turn Left,Turn Right,-,src/FrontEnd/img/Rcorridor.jpg
+3,6,4,0,You've encountered a Treasure Chest! Pick only ONE item.,What are you going to pick?,Holy Water,Pacifier,-,src/FrontEnd/img/chest.jpg
+4,24,24,0,Baby's crying gets louder from upstairs - GO UPSTAIRS NOW,-,-,-,-,src/FrontEnd/img/crying.jpg
+5,8,3,0,You tried to follow the sound source and there are TWO paths available.,Which direction do you want to go?,Turn Left,Turn Right,-,src/FrontEnd/img/2path.jpg
+6,12,7,0,You see something hiding under the table.,What now?,Throw the Holy Water under the table,Bend down to check it out,-,src/FrontEnd/img/table.jpg
+7,23,23,0,You Got Too Close To The Ghost!,-,-,-,-,src/FrontEnd/img/ghost1.jpg
+8,24,9,0,You Hear Something moving,What now?,Keep Exploring,Find Weapon,-,src/FrontEnd/img/hse2.jpg
+9,4,10,0,There are two weapons available for you. Pick ONE item.,What are you going to pick?,Bible,Knife,-,src/FrontEnd/img/bibleKnife.jpg
+10,14,11,0,You've spotted a Dark Figure behind the door.,What now?,Make a Run for it in the Opposite Direction.,Approach and Challenge,-,src/FrontEnd/img/behindDoor.png
+11,23,23,0,Your Knife has no chance against the Ghost.,-,-,-,-,src/FrontEnd/img/knifeChance.jpg
+12,24,24,0,You've eliminated all the Ghost on this floor.,-,-,-,-,src/FrontEnd/img/eliminated.jpg
+13,23,23,0,Unluckily. You've stumbled upon the Ghost's Lair.,-,-,-,-,src/FrontEnd/img/ghostLair.jpg
+14,18,15,11,You ran out of stamina.,What now?,Seek a Hiding Spot.,Beg for Mercy.,Challenge with Knife!,src/FrontEnd/img/stamina.jpg
+15,16,17,0,The figure wants you to hand over the Sword,What now?,Hand the Sword Over.,Insist to keep it.,-,src/FrontEnd/img/handSword.jpg
+16,24,24,0,Ghost decided to show mercy as you've returned its favourite Sword. ,-,-,-,-,src/FrontEnd/img/ghostChance.jpg
+17,23,23,0,Bad Choice! Ghost rages and Kills you!,-,-,-,-,src/FrontEnd/img/rage.jpg
+18,19,20,21,There are a few places you can try to hide.,What are you going to pick?,Under the table.,Closet.,Behind the Closet,src/FrontEnd/img/hidingSpot.jpg
+19,23,23,0,Unlucky! Ghost Found You!,-,-,-,-,src/FrontEnd/img/ghost.jpg
+20,24,24,0,Nice hiding spot! You can proceed to explore Upstairs!,-,-,-,-,src/FrontEnd/img/eliminated.jpg
+21,22,19,0,You hear footsteps coming closer to You. ,What now?,Toss the Knife to Distract the Ghost.,Keep Hiding,-,src/FrontEnd/img/closetHiding.jpg
+22,24,24,0,You Managed to Distract the Ghost and Sneaked away!,-,-,-,-,src/FrontEnd/img/eliminated.jpg
+23,0,0,0,Game Over! Respawn Now.,-,-,-,-,src/FrontEnd/img/gameOver.png
+24,25,26,0,The Stairway going up is dark and squeaky.,What now?,Walk Up in the Dark.,Turn on Flashlight on your Phone,-,src/FrontEnd/img/stairs.jpg
+25,23,23,0,Oh Dear! You've stepped into a Gap and fell into the Underworld!,-,-,-,-,src/FrontEnd/img/falling.png
+26,27,30,0,Noticed that part of the Stairs is broken.,What now?,Run Up as Fast as you Can.,One Step at the Time.,-,src/FrontEnd/img/brokenStairs.jpg
+27,28,32,0,You come across a dim corridor with 2 rooms.,Which room are you going to pick?,Room Right by you that has Scratch Marks,Room at the End with Blood Stains,-,src/FrontEnd/img/corridor2.jpg
+28,29,29,0,You see a Baby's crib but you don't hear any crying from it.,What now?,Walk Up to it.,Throw a Chair at it.,-,src/FrontEnd/img/babyCrib.jpg
+29,27,27,0,There's a fake doll in the crib! It is covered in BLOOD. Head back to the corridor!,-,-,-,-,src/FrontEnd/img/bloodyDoll.png
+30,27,31,0,You feel like throwing up! It smells like Something's Rotting!,What now?,Cover Your Nose and Ignore It,Take a break.,-,src/FrontEnd/img/throwUp.jpg
+31,23,23,0,You got tapped on your shoulder! The figure with the rotting smell has caught up to you!,-,-,-,-,src/FrontEnd/img/rotten.jpg
+32,33,35,0,Room is in a mess and you hear the cries get LOUDER!,What now?,Plunge Through the Mess.,Carefully Move Things out of the way!,-,src/FrontEnd/img/messyroom.jpg
+33,34,35,0,Trips on a silk cloth and you accidentally hit your head on a table. You've injured your head!,What now?,Cover the Wound with a bandage.,Keep Moving!,-,src/FrontEnd/img/head.jpg
+34,23,23,0,You took too long! The Ghost Found you!,-,-,-,-,src/FrontEnd/img/ghost.jpg
+35,36,37,38,There are things in your way.,What are you going to move?,Approach the Cupboard.,Approach the Table.,Approach the Chest of Drawers.,src/FrontEnd/img/messyroom.jpg
+36,19,39,0,You noticed that the Cupboard has been untouched for years.,What now?,Open it.,Keep Searching!,-,src/FrontEnd/img/cupboard.jpg
+37,19,39,0,You noticed that there are Baby toys on the table.,What now?,Look Underneath the Table,Keep Searching!,-,src/FrontEnd/img/table2.jpg
+38,19,39,0,You noticed something moving in the drawers.,What now?,Open the last drawer!,Keep Searching!,-,src/FrontEnd/img/drawers.jpg
+39,40,41,0,You looked across the room and found the Baby in the corner!,What now?,Get out by jumping in the pool through the window.,Get out by walking down the stairs.,-,src/FrontEnd/img/cornerbb.png
+40,42,42,0,You managed to escape and rescue the baby from the Abandoned House!,-,-,-,-,src/FrontEnd/img/saved.png
+41,23,23,0,While walking down.. you got pushed from the back by a figure and passed out upon impact of the ground.,-,-,-,-,src/FrontEnd/img/pushed.jpg
+42,0,0,0,Rescue mission was a success as you and the baby are safe!,END,-,-,-,src/FrontEnd/img/congrats.png
