@@ -6,12 +6,12 @@ I have my Front End code within the FrontEnd package and inside the GUILayout.ja
 
 ## Illustration of Application
 
-![Overview of Game](/images/sample1.png){width=30px}
+![Overview of Game](/images/sample1.png)
 
 This is the overall look over the game. User can select any of the buttons available. These choices selected by the user will affect the outcome and the fate of the user.
 
-![Overview of Game](/images/sample2.png){width=30px}
+![Overview of Game](/images/sample2.png)
 
 When user successfully completed the game, the user will be able to choose to restart or quiting the game.
 
-![Win Screen](/images/win.png){width=30px}
+![Win Screen](/images/win.png)
