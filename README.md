@@ -2,7 +2,9 @@
 
 Repo containing code for my Horror Interactive game
 
-I have my Front End code within the FrontEnd package and inside the GUILayout.java, and the game images stored inside img. Within the DecisionFiles, there is a .csv file that stores all my game data, and a couple of .java backend classes including some for custom exceptions.
+I have my Front End code within the FrontEnd package and inside the GUILayout.java, and the game images stored inside `img`. Within the `DecisionFiles`, there is a .csv file that stores all my game data, and a couple of .java backend classes including some for custom exceptions.
+
+This game I have is designed accordingly to a Decision Map where I have came up with, providing multiple different outcomes according to the decisions the user select on each step of the game. I have also added the Decision Map within this repository called `decMap.png`
 
 ## Illustration of Application
 
